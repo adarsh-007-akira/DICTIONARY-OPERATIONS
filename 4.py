@@ -1,6 +1,3 @@
-from winreg import KEY_SET_VALUE
-
-
 num=int(input("No. Of elemnts in dictionary :\n"))
 dictionary={}
 x=[]
